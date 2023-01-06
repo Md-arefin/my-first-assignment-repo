@@ -51,3 +51,21 @@
     color: rgba(75, 74, 74, 0.692);
     padding: 20px;
 }
+.my-plan-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    margin: 5%;
+}
+.plan-container{
+    display: flex;
+    gap: 80px;
+    margin-top: 3%;
+    margin-left: 30%;
+   
+}
+.plan-title{
+    font-size: 20px;
+    padding: 25px 5px 0px 0px;
+}
+
