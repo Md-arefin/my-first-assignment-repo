@@ -34,3 +34,20 @@
     background-color: #ff0202;
     color: #ffffff;
 }
+
+/* style for experiences */
+.experience-container{
+    display: flex;
+    margin:0px 400px 25px ;
+    width: 1072px;
+    height: 300px;
+}
+.experience-title{
+    font-size: 30px;
+    font-weight: 800;
+    padding-bottom: 15px;
+}
+.experience-description , pre{
+    color: rgba(75, 74, 74, 0.692);
+    padding: 20px;
+}
